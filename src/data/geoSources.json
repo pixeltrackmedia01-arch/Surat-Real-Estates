@@ -1,0 +1,62 @@
+[
+  {
+    "id": "smc_zones",
+    "name": "SMC — Zones: Functions (nine zones)",
+    "url": "https://www.suratmunicipal.gov.in/Zones/Functions",
+    "publisher": "Surat Municipal Corporation",
+    "checkedAt": "2026-11-19",
+    "note": "Lists West, Central, North, East A, East B, South A, South B, South West and South East zones."
+  },
+  {
+    "id": "smc_demographics",
+    "name": "SMC — The City: Demographics",
+    "url": "https://www.suratmunicipal.gov.in/TheCity/Demographics",
+    "publisher": "Surat Municipal Corporation",
+    "pageUpdated": "2025-12-18",
+    "checkedAt": "2026-11-19",
+    "note": "States the city is divided into 9 zones; 461.60 sq km; 30 election wards."
+  },
+  {
+    "id": "smc_civic",
+    "name": "SMC — City Civic Center: List of Centers",
+    "url": "https://www.suratmunicipal.gov.in/Services/CityCivicCenterListOfCenters",
+    "publisher": "Surat Municipal Corporation",
+    "pageUpdated": "2022-03-19",
+    "checkedAt": "2026-11-19",
+    "note": "Civic centres grouped by zone with addresses. Page last updated 2022; may be outdated."
+  },
+  {
+    "id": "smc_swz",
+    "name": "SMC — South West Zone: on-going / planned projects 2019-20",
+    "url": "https://www.suratmunicipal.gov.in/Zones/Southwest/SWZ_Projects",
+    "publisher": "Surat Municipal Corporation",
+    "pageUpdated": "2019-10-21",
+    "checkedAt": "2026-11-19",
+    "note": "Names localities where South West Zone works were planned."
+  },
+  {
+    "id": "smc_dmp",
+    "name": "SMC — Disaster Management & Preparedness Plan (English, 2026 edition)",
+    "url": "https://www.suratmunicipal.gov.in/Content/Documents/Downloads/DMP_English.pdf",
+    "publisher": "Surat Municipal Corporation",
+    "checkedAt": "2026-11-19",
+    "note": "Zone-wise tables use older zone names (Rander, Athwa, Udhna A/B, Limbayat, Varachha A/B, Katargam, Central)."
+  },
+  {
+    "id": "amrut_kanakpur",
+    "name": "AMRUT approved projects — water supply for newly added Kanakpur-Kansad, Pali, Sachin, Pardi-Kande, Talangpur and Umber areas",
+    "url": "https://amrut.mohua.gov.in/approvedProjects/list/c3cwOVlFOG1BckF5cE9mQVVFbWhSdz09/TFd6dmV4R01mZngxWTRnM0cvNG1VUT09",
+    "publisher": "Ministry of Housing and Urban Affairs (AMRUT)",
+    "checkedAt": "2026-11-19",
+    "note": "Seen in search results only; indicates these areas are within SMC (South Zone B area)."
+  },
+  {
+    "id": "indiapost",
+    "name": "India Post — All India Pincode Directory",
+    "url": "https://www.data.gov.in/catalog/all-india-pincode-directory",
+    "publisher": "Department of Posts, Government of India (via data.gov.in)",
+    "checkedAt": "2026-11-19",
+    "licence": "Government Open Data License – India (GODL-India)",
+    "note": "data.gov.in reset connections from our build environment on the check date, so the file was obtained from the 1:1 GitHub republication at https://raw.githubusercontent.com/dropdevrahul/pincodes-india/main/pincode.csv. Re-verify against data.gov.in when reachable."
+  }
+]

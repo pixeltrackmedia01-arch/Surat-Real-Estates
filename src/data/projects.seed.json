@@ -1,0 +1,1443 @@
+[
+  {
+    "id": "prj-sangini-nirvana-vesu",
+    "slug": "sangini-nirvana-vesu",
+    "name": "Sangini Nirvana",
+    "developer": {
+      "value": "Vee Aar Life Space LLP",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter as registered. Marketed under the Sangini Group name on listing portals (not verified)."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "vesu",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "TP 7, FP 33, VIP Road, N M Mavani Road Corner, Vesu, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "PIN not shown in the source."
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror reports RERA approval and \"construction in progress; not yet completed\"."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA09351/201121",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2021-11-20"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2027-08-31",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [
+        "3 BHK"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 88,
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "blocks": {
+      "value": 2,
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-sangini-nirvana-vesu",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/sangini-nirvana/12968",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-raghuvir-sierra-vesu",
+    "slug": "raghuvir-sierra-vesu",
+    "name": "Raghuvir Sierra",
+    "developer": {
+      "value": "Raghuvir Developers & Builders",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-sierra-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "vesu",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-sierra-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "TP Scheme No. 29 (Rundh – Vesu – Magdalla), R.S. No. 352/2, F.P. No. 76/1, Vesu, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-sierra-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "PIN not shown in the source."
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-sierra-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror reports RERA approval with construction in progress."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA12557/011123",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2023-11-01"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-sierra-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2029-12-31",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-sierra-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [
+        "4 BHK"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-sierra-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 48,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-sierra-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "blocks": {
+      "value": 2,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-sierra-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-raghuvir-sierra-vesu",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/raghuvir-sierra/18941",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-raghuvir-spelito-magdalla",
+    "slug": "raghuvir-spelito-magdalla",
+    "name": "Raghuvir Spelito",
+    "developer": {
+      "value": "Raghuvir Developers & Builders",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "magdalla",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19",
+      "note": "Registered at Moje Magdalla; the mirror also describes it as being in the Vesu area (TP: Vesu-Magdalla)."
+    },
+    "address": {
+      "value": "TP 7, FP 68, R.S. No. 14-2/Paiky 1, Moje Magdalla, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [
+        "395007"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19"
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror shows project status \"AWAITINGCOMPLIANCE\" alongside RERA approval and construction in progress."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA12759/080124/311229",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2024-01-08"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2029-12-31",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "progress": {
+      "value": {
+        "percent": 72.3,
+        "asOf": "2026-04"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19",
+      "note": "Quarterly progress as reported to RERA, per the mirror."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [
+        "4 BHK"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19"
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 156,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19"
+    },
+    "blocks": {
+      "value": 6,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spelito-magdalla",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-raghuvir-spelito-magdalla",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/raghuvir-spelito/16892",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-raghuvir-shell-vesu",
+    "slug": "raghuvir-shell-vesu",
+    "name": "Raghuvir Shell",
+    "developer": {
+      "value": "Raghuvir Developers & Builders",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-shell-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "vesu",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-shell-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "T.P. No. 07 (Vesu), R.S. No. 18/5, F.P. No. 67, Moje Surat, Taluka Choryasi, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-shell-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "PIN not shown in the source."
+    },
+    "status": {
+      "value": "completed",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-shell-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror lists the project as \"Completed\" with end date 31 Dec 2018."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/CHORASI/SUDA/RAA00125/110917",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2017-09-11"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-shell-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2018-12-31",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-shell-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Configuration not shown in the source."
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 60,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-shell-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "blocks": {
+      "value": 3,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-shell-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-raghuvir-shell-vesu",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/raghuvir-shell/1140",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-raghuvir-spectrum-vesu",
+    "slug": "raghuvir-spectrum-vesu",
+    "name": "Raghuvir Spectrum",
+    "developer": {
+      "value": "Raghuvir Developers & Builders",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spectrum-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "vesu",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spectrum-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "TP 16, 18, R.S. No. 224/2, 225/2, F.P. No. 16, 18, Moje Vesu, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spectrum-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "PIN not shown in the source."
+    },
+    "status": {
+      "value": "unverified",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spectrum-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Conflict in the source: listed as \"Completed\" (30 Jun 2026) but the latest quarterly progress shown is 96.74% (Apr 2026). Shown as unverified until checked on GujRERA.",
+      "conflict": {
+        "values": [
+          {
+            "value": "completed",
+            "note": "Status field: Completed",
+            "sourceId": "src-raghuvir-spectrum-vesu"
+          },
+          {
+            "value": "under_construction",
+            "note": "Quarterly progress 96.74% (Apr 2026)",
+            "sourceId": "src-raghuvir-spectrum-vesu"
+          }
+        ],
+        "note": "Needs admin review against GujRERA."
+      },
+      "flaggedForReview": true
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA06991/EX1/250725/300626",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2020-05-14"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spectrum-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Registration number includes an extension (EX1). Another listing shows the original number PR/GJ/SURAT/SURATCITY/SUDA/RAA06991/140520."
+    },
+    "completionDate": {
+      "value": "2026-06-30",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spectrum-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "progress": {
+      "value": {
+        "percent": 96.74,
+        "asOf": "2026-04"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spectrum-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Quarterly progress as reported to RERA, per the mirror."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Configuration not shown in the source."
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 160,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spectrum-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "blocks": {
+      "value": 4,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-spectrum-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-raghuvir-spectrum-vesu",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/raghuvir-spectrum/9880",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "has_conflicts",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-raghuvir-satva-vesu",
+    "slug": "raghuvir-satva-vesu",
+    "name": "Raghuvir Satva",
+    "developer": {
+      "value": "Raghuvir Developers & Builders",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-satva-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "vesu",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-satva-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "TPS No. 29 (Rundh, Vesu, Magdalla), New S. No. 36, FP No. 66, Moje Vesu, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-satva-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "PIN not shown in the source."
+    },
+    "status": {
+      "value": "completed",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-satva-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror lists the project as \"Completed\" with end date 31 Dec 2024."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA07721/A1R/260523",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2020-12-02"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-satva-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Number includes an amendment suffix (A1R). Another listing shows PR/GJ/SURAT/SURAT CITY/SUDA/RAA07721/021220."
+    },
+    "completionDate": {
+      "value": "2024-12-31",
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-satva-vesu",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Configuration not shown in the source."
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 156,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-satva-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "blocks": {
+      "value": 3,
+      "provenance": "sourced",
+      "sourceId": "src-raghuvir-satva-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-raghuvir-satva-vesu",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/raghuvir-satva/10772",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-sangini-epitome-bhatha",
+    "slug": "sangini-epitome-bhatha",
+    "name": "Sangini Epitome",
+    "developer": {
+      "value": "Sangini Real Estate LLP",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "bhatha",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "Opp. Green City, Bhatha, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [
+        "395009"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19",
+      "note": "PIN as shown on the mirror page. India Post lists Bhatha SO under 394510; please verify."
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror reports RERA approval with construction in progress."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA13115/140324/301230",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2024-03-14"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2030-12-30",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "progress": {
+      "value": {
+        "percent": 47.31,
+        "asOf": "2026-04"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19",
+      "note": "Quarterly progress as reported to RERA, per the mirror."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [
+        "3 BHK",
+        "4 BHK"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19"
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 276,
+      "provenance": "sourced",
+      "sourceId": "src-sangini-epitome-bhatha",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-sangini-epitome-bhatha",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/sangini-epitome/17049",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-one-tapi-piplod",
+    "slug": "one-tapi-piplod",
+    "name": "One Tapi",
+    "developer": {
+      "value": "Pramukh Riverside Realty LLP",
+      "provenance": "sourced",
+      "sourceId": "src-one-tapi-piplod",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "piplod",
+      "provenance": "sourced",
+      "sourceId": "src-one-tapi-piplod",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "TP S No. 6, FP No. 44, behind ISKON Mall, Piplod Road, Piplod, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-one-tapi-piplod",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [
+        "395007"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-one-tapi-piplod",
+      "checkedAt": "2026-11-19"
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-one-tapi-piplod",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror shows registration approved and completion pending, with construction in progress."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/Surat Municipal Corporation/RAA13015/220224/311229",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2024-02-22"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-one-tapi-piplod",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2029-12-31",
+      "provenance": "sourced",
+      "sourceId": "src-one-tapi-piplod",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "progress": {
+      "value": {
+        "percent": 44.2,
+        "asOf": "2026-04"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-one-tapi-piplod",
+      "checkedAt": "2026-11-19",
+      "note": "Quarterly progress as reported to RERA, per the mirror."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Configuration not shown in the source."
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 28,
+      "provenance": "sourced",
+      "sourceId": "src-one-tapi-piplod",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-one-tapi-piplod",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/one-tapi/20416",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-sangini-aura",
+    "slug": "sangini-aura",
+    "name": "Sangini Aura",
+    "developer": {
+      "value": "Sangini Associates",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-aura",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "pal",
+      "provenance": "inferred",
+      "sourceId": "src-sangini-aura",
+      "checkedAt": "2026-11-19",
+      "note": "The mirror address (\"Opp. Sportena Club, next lane to Kelly Residency\") does not name a locality. Listing portals place it in Pal; not verified."
+    },
+    "address": {
+      "value": "Opp. Sportena Club, next lane to Kelly Residency, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-aura",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "PIN not shown in the source."
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-aura",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror shows status \"Approved\" with block progress below 100%."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA11888/020623",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2023-06-02"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-sangini-aura",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2027-06-30",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-aura",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "progress": {
+      "value": {
+        "percent": 97.82,
+        "asOf": "2026-04"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-sangini-aura",
+      "checkedAt": "2026-11-19",
+      "note": "Quarterly progress as reported to RERA, per the mirror."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Configuration not shown in the source."
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 79,
+      "provenance": "sourced",
+      "sourceId": "src-sangini-aura",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-sangini-aura",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/sangini-aura/18861",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-vardan-luxuria-mota-varachha",
+    "slug": "vardan-luxuria-mota-varachha",
+    "name": "Vardan Luxuria",
+    "developer": {
+      "value": "Vardan Infra",
+      "provenance": "sourced",
+      "sourceId": "src-vardan-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "mota-varachha",
+      "provenance": "sourced",
+      "sourceId": "src-vardan-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "T.P.S. No. 25 (Mota Varachha), F.P. No. 29, Block No. 340, Moje Mota Varachha, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-vardan-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "PIN not shown in the source."
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-vardan-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror shows approval with completion pending; block progress 30–71%. Its quarterly table also lists an implausible future 100% entry, so progress is not shown."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA11302/020323",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2023-03-02"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-vardan-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2027-12-31",
+      "provenance": "sourced",
+      "sourceId": "src-vardan-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Configuration not shown in the source."
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 250,
+      "provenance": "sourced",
+      "sourceId": "src-vardan-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-vardan-luxuria-mota-varachha",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/vardan-luxuria/18280",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "has_conflicts",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-shubham-pearl-palanpur",
+    "slug": "shubham-pearl-palanpur",
+    "name": "Shubham Pearl",
+    "developer": {
+      "value": "Kalubhai T Katrodiya (partnership firm, as listed)",
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "palanpur",
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "Gaurav Path, Palanpore, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "PIN not shown in the source."
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror reports approval with construction in progress."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA10183/110522",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2022-05-11"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2030-12-31",
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "progress": {
+      "value": {
+        "percent": 66.42,
+        "asOf": "2024-10"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19",
+      "note": "Quarterly progress as reported to RERA, per the mirror."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [
+        "2 BHK",
+        "3 BHK"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19"
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 330,
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19"
+    },
+    "blocks": {
+      "value": 6,
+      "provenance": "sourced",
+      "sourceId": "src-shubham-pearl-palanpur",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-shubham-pearl-palanpur",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/shubham-pearl/17141",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  },
+  {
+    "id": "prj-shyam-luxuria-mota-varachha",
+    "slug": "shyam-luxuria-mota-varachha",
+    "name": "Shyam Luxuria",
+    "developer": {
+      "value": "Shyam Buildcon",
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19",
+      "note": "Promoter name as shown in the registration record."
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "mota-varachha",
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "Block No. 596/A, FP No. 204/A, near Rameshwaram Bungalows and Gopin Gam, Mota Varachha, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [
+        "394101"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19"
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19",
+      "note": "Mirror shows approval with completion pending."
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/Surat Municipal Corporation/RAA15437/300625/311229",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2025-06-30"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19",
+      "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+    },
+    "completionDate": {
+      "value": "2029-12-31",
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19",
+      "note": "Proposed completion date in the registration record. Not a possession guarantee."
+    },
+    "progress": {
+      "value": {
+        "percent": 29.17,
+        "asOf": "2026-04"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19",
+      "note": "Quarterly progress as reported to RERA, per the mirror."
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [
+        "4 BHK"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19"
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 52,
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19"
+    },
+    "blocks": {
+      "value": 2,
+      "provenance": "sourced",
+      "sourceId": "src-shyam-luxuria-mota-varachha",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [],
+    "sources": [
+      {
+        "id": "src-shyam-luxuria-mota-varachha",
+        "name": "PropTech Pulse (Aurum PropTech) — RERA project page",
+        "url": "https://www.aurumproptech.in/pulse/rera/gujarat/surat/shyam-luxuria/27209",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "published",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Verify registration number, status and completion date on GujRERA when the portal is reachable."
+  }
+]

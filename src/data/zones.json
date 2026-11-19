@@ -1,0 +1,119 @@
+[
+  {
+    "id": "west",
+    "name": "West Zone",
+    "formerNames": [
+      "Rander Zone"
+    ],
+    "officeLocality": "Tadwadi, New Rander Road",
+    "sourceIds": [
+      "smc_zones",
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "central",
+    "name": "Central Zone",
+    "formerNames": [],
+    "officeLocality": "Muglisara",
+    "sourceIds": [
+      "smc_zones",
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "north",
+    "name": "North Zone",
+    "formerNames": [
+      "Katargam Zone"
+    ],
+    "officeLocality": "Katargam",
+    "sourceIds": [
+      "smc_zones",
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "east-a",
+    "name": "East Zone A",
+    "formerNames": [
+      "Varachha Zone-A"
+    ],
+    "officeLocality": "Lambe Hanuman Road, Varachha",
+    "sourceIds": [
+      "smc_zones",
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "east-b",
+    "name": "East Zone B",
+    "formerNames": [
+      "Varachha Zone-B",
+      "Sarthana"
+    ],
+    "officeLocality": "Sarthana",
+    "sourceIds": [
+      "smc_zones",
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "south-a",
+    "name": "South Zone A",
+    "formerNames": [
+      "Udhna Zone-A"
+    ],
+    "officeLocality": "Udhna",
+    "sourceIds": [
+      "smc_zones",
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "south-b",
+    "name": "South Zone B",
+    "formerNames": [
+      "Udhna Zone-B",
+      "Kanakpur"
+    ],
+    "officeLocality": "Kanakpur",
+    "sourceIds": [
+      "smc_zones",
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "south-west",
+    "name": "South West Zone",
+    "formerNames": [
+      "Athwa Zone"
+    ],
+    "officeLocality": "Ghod Dod Road",
+    "sourceIds": [
+      "smc_zones",
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "south-east",
+    "name": "South East Zone",
+    "formerNames": [
+      "Limbayat Zone"
+    ],
+    "officeLocality": "Dumbhal, Limbayat",
+    "sourceIds": [
+      "smc_zones",
+      "smc_civic",
+      "smc_dmp"
+    ]
+  }
+]

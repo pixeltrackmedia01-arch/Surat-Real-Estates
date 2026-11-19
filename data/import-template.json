@@ -1,0 +1,125 @@
+[
+  {
+    "id": "prj-example-project-vesu",
+    "slug": "example-project-vesu",
+    "name": "Example Project Name",
+    "developer": {
+      "value": "Example Promoter LLP",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "type": "residential",
+    "localityId": {
+      "value": "vesu",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "address": {
+      "value": "TP 00, FP 00, Vesu, Surat",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "pinCodes": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "PIN not shown in the source."
+    },
+    "status": {
+      "value": "under_construction",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "rera": {
+      "value": {
+        "number": "PR/GJ/SURAT/SURAT CITY/SUDA/RAA00000/010124",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "approvedOn": "2024-01-01"
+      },
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "completionDate": {
+      "value": "2028-12-31",
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "price": {
+      "value": {
+        "kind": "not_provided",
+        "currency": "INR"
+      },
+      "provenance": "unverified",
+      "note": "No unit price in the source used. Total project cost is not shown because it is not a home price."
+    },
+    "configurations": {
+      "value": [
+        "3 BHK"
+      ],
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "areas": {
+      "value": [],
+      "provenance": "unverified",
+      "note": "Unit areas not provided. The source lists only a project-total carpet area without a unit."
+    },
+    "unitsTotal": {
+      "value": 100,
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "blocks": {
+      "value": 2,
+      "provenance": "sourced",
+      "sourceId": "src-sangini-nirvana-vesu",
+      "checkedAt": "2026-11-19"
+    },
+    "media": [
+      {
+        "id": "m-1",
+        "type": "floor_plan",
+        "url": "https://example.org/plan-3bhk.webp",
+        "alt": "3 BHK floor plan, Type A",
+        "label": "3 BHK — Type A",
+        "attribution": "© Example Promoter LLP",
+        "sourceId": "src-sangini-nirvana-vesu",
+        "permission": "granted",
+        "permittedUse": "Display on this site with attribution, granted by email on 2026-11-19"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-sangini-nirvana-vesu",
+        "name": "Replace with source name",
+        "url": "https://example.org/replace-with-source",
+        "kind": "rera_mirror",
+        "checkedAt": "2026-11-19",
+        "state": "ok",
+        "note": "Third-party RERA mirror. GujRERA was unavailable (HTTP 503) when checked, so this has not been verified on GujRERA."
+      },
+      {
+        "id": "gujrera",
+        "name": "Gujarat RERA (official portal)",
+        "url": "https://gujrera.gujarat.gov.in/",
+        "kind": "rera",
+        "checkedAt": "2026-11-19",
+        "state": "unavailable",
+        "note": "Returned HTTP 503 on the check date."
+      }
+    ],
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "lastReviewedAt": "2026-11-19T00:00:00.000Z",
+    "publication": "draft",
+    "dataQuality": "third_party_source",
+    "reviewNotes": "Template record — replace every value with sourced facts."
+  }
+]

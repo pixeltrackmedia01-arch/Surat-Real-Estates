@@ -1,0 +1,1733 @@
+[
+  {
+    "id": "adajan",
+    "name": "Adajan",
+    "aliases": [
+      "Adajan Gam",
+      "Adajan Patiya",
+      "Adajan Patia"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395009"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "pal",
+    "name": "Pal",
+    "aliases": [
+      "Pal Gam",
+      "Pal Gaam",
+      "Paal"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394510"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "palanpur",
+    "name": "Palanpur",
+    "aliases": [
+      "Palanpore",
+      "Palanpur Gam",
+      "Palanpur Canal Road"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395009"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "ichhapore",
+    "name": "Ichhapore",
+    "aliases": [
+      "Ichchhapor",
+      "Ichhapor",
+      "Ichapore"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394510"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bhatha",
+    "name": "Bhatha",
+    "aliases": [
+      "Bhatha Gam"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394510"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bhesan",
+    "name": "Bhesan",
+    "aliases": [
+      "Bhesan Gam",
+      "Bhesaan"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395005"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "rander",
+    "name": "Rander",
+    "aliases": [
+      "Rander Road",
+      "New Rander Road",
+      "Randher"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "West Zone was formerly called Rander Zone; zone office on New Rander Road.",
+    "pinCodes": [
+      "395005"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "smc_dmp",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "tadwadi",
+    "name": "Tadwadi",
+    "aliases": [
+      "Tadwadi Rander"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "West Zone office address is in Tadwadi.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_civic"
+    ]
+  },
+  {
+    "id": "jahangirpura",
+    "name": "Jahangirpura",
+    "aliases": [
+      "Jahangir Pura",
+      "Jahangirpura Gam"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "gorat",
+    "name": "Gorat",
+    "aliases": [
+      "Gaurav Path",
+      "Adajan Gorat"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "variav",
+    "name": "Variav",
+    "aliases": [
+      "Variyav",
+      "Variav Gam"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "394520"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "ramnagar",
+    "name": "Ramnagar",
+    "aliases": [
+      "Ram Nagar Rander"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395009"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "anand-mahal-road",
+    "name": "Anand Mahal Road",
+    "aliases": [
+      "Anandmahal Road"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395009"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bhatpore",
+    "name": "Bhatpore",
+    "aliases": [
+      "Bhatpor"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "394510"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "honey-park-road",
+    "name": "Honey Park Road",
+    "aliases": [
+      "Honey Park"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "morabhagal",
+    "name": "Morabhagal",
+    "aliases": [
+      "Mora Bhagal"
+    ],
+    "zoneId": "west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Listed under Rander (West) zone in the SMC DMP siren table.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "muglisara",
+    "name": "Muglisara",
+    "aliases": [
+      "Mughlisara"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395003"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "ring-road",
+    "name": "Ring Road",
+    "aliases": [
+      "Textile Market",
+      "Millennium Market",
+      "M G Road"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Ring Road civic centre (near Millennium Market) is listed under Central Zone.",
+    "pinCodes": [
+      "395002"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "nanpura",
+    "name": "Nanpura",
+    "aliases": [
+      "Nanpara",
+      "Timaliawad"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395001"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "gopipura",
+    "name": "Gopipura",
+    "aliases": [
+      "Gopi Pura"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395001"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "sagrampura",
+    "name": "Sagrampura",
+    "aliases": [
+      "Sagrampura Putli"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395002"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bhagal",
+    "name": "Bhagal",
+    "aliases": [
+      "Bhagal Chowk"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395003"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "chowk-bazar",
+    "name": "Chowk Bazar",
+    "aliases": [
+      "Chowk",
+      "Chowkbazar"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "salabatpura",
+    "name": "Salabatpura",
+    "aliases": [
+      "Salabat Pura"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "mahidharpura",
+    "name": "Mahidharpura",
+    "aliases": [
+      "Mahidhar Pura"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "begumpura",
+    "name": "Begumpura",
+    "aliases": [
+      "Begampura"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "zampa-bazar",
+    "name": "Zampa Bazar",
+    "aliases": [
+      "Jhampa Bazar",
+      "Jhampa"
+    ],
+    "zoneId": "central",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395003"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "khatodara",
+    "name": "Khatodara",
+    "aliases": [
+      "Khatodra"
+    ],
+    "zoneId": null,
+    "zoneConfidence": "unverified",
+    "zoneEvidence": "Zone not established from the sources checked.",
+    "pinCodes": [
+      "395002"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "katargam",
+    "name": "Katargam",
+    "aliases": [
+      "Katargaam",
+      "Katargam Gam"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "North Zone was formerly called Katargam Zone; zone office in Katargam.",
+    "pinCodes": [
+      "395004"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "smc_dmp",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "ved-road",
+    "name": "Ved Road",
+    "aliases": [
+      "Ved",
+      "Vedroad"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_civic"
+    ]
+  },
+  {
+    "id": "dabholi",
+    "name": "Dabholi",
+    "aliases": [
+      "Dabholi Gam",
+      "Govindnagar"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395004"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "chhaprabhatha",
+    "name": "Chhaprabhatha",
+    "aliases": [
+      "Chhapra Bhatha",
+      "Chapra Bhatha"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394107"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "kosad",
+    "name": "Kosad",
+    "aliases": [
+      "Kosad Gam"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394107"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "gothan",
+    "name": "Gothan",
+    "aliases": [
+      "Gothan Gam"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_civic"
+    ]
+  },
+  {
+    "id": "segwa-syadla",
+    "name": "Segwa-Syadla",
+    "aliases": [
+      "Segwa",
+      "Syadla"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_civic"
+    ]
+  },
+  {
+    "id": "amroli",
+    "name": "Amroli",
+    "aliases": [
+      "Amroli Gam"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "394107"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "utran",
+    "name": "Utran",
+    "aliases": [
+      "Utran Gam"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "394105"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "singanpore",
+    "name": "Singanpore",
+    "aliases": [
+      "Singanpor",
+      "Singanpur"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395004"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "motived",
+    "name": "Motived",
+    "aliases": [
+      "Mota Ved",
+      "Moti Ved"
+    ],
+    "zoneId": "north",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395004"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "fulpada",
+    "name": "Fulpada",
+    "aliases": [
+      "Phulpada"
+    ],
+    "zoneId": null,
+    "zoneConfidence": "unverified",
+    "zoneEvidence": "Zone not established from the sources checked.",
+    "pinCodes": [
+      "395008"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "varachha",
+    "name": "Varachha",
+    "aliases": [
+      "Varachha Road",
+      "Varacha",
+      "Varachha Rd",
+      "Lambe Hanuman Road"
+    ],
+    "zoneId": "east-a",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "East Zone A office is on Lambe Hanuman Road, Varachha; formerly Varachha Zone-A.",
+    "pinCodes": [
+      "395006"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "smc_dmp",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "kapodra",
+    "name": "Kapodra",
+    "aliases": [
+      "Kapodra Char Rasta",
+      "Karanj"
+    ],
+    "zoneId": "east-a",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Karanj civic centre (near Kapodra circle) is listed under East Zone A.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "puna",
+    "name": "Puna",
+    "aliases": [
+      "Puna Gam",
+      "Puna Kumbharia"
+    ],
+    "zoneId": "east-a",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395011"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "hirabaug",
+    "name": "Hirabaug",
+    "aliases": [
+      "Hira Baug",
+      "Hirabag"
+    ],
+    "zoneId": "east-a",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "yogi-chowk",
+    "name": "Yogi Chowk",
+    "aliases": [
+      "Yogichowk"
+    ],
+    "zoneId": null,
+    "zoneConfidence": "unverified",
+    "zoneEvidence": "Zone not established from the sources checked.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "a-k-road",
+    "name": "A K Road",
+    "aliases": [
+      "Ashwanikumar Road",
+      "Ashwini Kumar Road"
+    ],
+    "zoneId": null,
+    "zoneConfidence": "unverified",
+    "zoneEvidence": "Zone not established from the sources checked.",
+    "pinCodes": [
+      "395008"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "mota-varachha",
+    "name": "Mota Varachha",
+    "aliases": [
+      "Mota Varacha",
+      "Motavaracha",
+      "Mota Varachha Gam"
+    ],
+    "zoneId": "east-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394101"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "nana-varachha",
+    "name": "Nana Varachha",
+    "aliases": [
+      "Nana Varacha",
+      "Nanavarachha"
+    ],
+    "zoneId": "east-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_civic"
+    ]
+  },
+  {
+    "id": "sarthana",
+    "name": "Sarthana",
+    "aliases": [
+      "Sarthana Jakatnaka"
+    ],
+    "zoneId": "east-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "East Zone B office is at Sarthana.",
+    "pinCodes": [
+      "395013"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "kathor",
+    "name": "Kathor",
+    "aliases": [
+      "Kathore"
+    ],
+    "zoneId": "east-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394150"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "pasodara",
+    "name": "Pasodara",
+    "aliases": [
+      "Pasodra"
+    ],
+    "zoneId": "east-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395013"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "laskana",
+    "name": "Laskana",
+    "aliases": [
+      "Laskana Gam"
+    ],
+    "zoneId": "east-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395013"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "kosmada",
+    "name": "Kosmada",
+    "aliases": [],
+    "zoneId": "east-b",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395013"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "valak",
+    "name": "Valak",
+    "aliases": [
+      "Valak Patiya"
+    ],
+    "zoneId": "east-b",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395013"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "abrama",
+    "name": "Abrama",
+    "aliases": [
+      "Abrama Gam"
+    ],
+    "zoneId": "east-b",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "394150"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "udhna",
+    "name": "Udhna",
+    "aliases": [
+      "Udhana",
+      "Udhna Gam",
+      "Udhnagam"
+    ],
+    "zoneId": "south-a",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "South Zone A office is in Udhna; formerly Udhna Zone-A.",
+    "pinCodes": [
+      "394210"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "smc_dmp",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bhestan",
+    "name": "Bhestan",
+    "aliases": [
+      "Bhestan Gam"
+    ],
+    "zoneId": "south-a",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395023"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "smc_dmp",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "pandesara",
+    "name": "Pandesara",
+    "aliases": [
+      "Pandesara GIDC",
+      "Pandesara Housing"
+    ],
+    "zoneId": "south-a",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394221"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bamroli",
+    "name": "Bamroli",
+    "aliases": [
+      "Bamroli Gam"
+    ],
+    "zoneId": "south-a",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "394210"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "vadod",
+    "name": "Vadod",
+    "aliases": [],
+    "zoneId": "south-a",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "kanakpur",
+    "name": "Kanakpur",
+    "aliases": [
+      "Kanakpur-Kansad"
+    ],
+    "zoneId": "south-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "South Zone B office is at Kanakpur.",
+    "pinCodes": [
+      "394230"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "amrut_kanakpur",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "kansad",
+    "name": "Kansad",
+    "aliases": [],
+    "zoneId": "south-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named with Kanakpur in an AMRUT project for newly added SMC areas.",
+    "pinCodes": [
+      "394230"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "amrut_kanakpur",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "sachin",
+    "name": "Sachin",
+    "aliases": [
+      "Sachin GIDC",
+      "Sachin Gam"
+    ],
+    "zoneId": "south-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named with Kanakpur in an AMRUT project for newly added SMC areas.",
+    "pinCodes": [
+      "394230"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "amrut_kanakpur",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "pali",
+    "name": "Pali",
+    "aliases": [
+      "Pali Gam"
+    ],
+    "zoneId": "south-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named with Kanakpur in an AMRUT project for newly added SMC areas.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "amrut_kanakpur"
+    ]
+  },
+  {
+    "id": "talangpur",
+    "name": "Talangpur",
+    "aliases": [],
+    "zoneId": "south-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named with Kanakpur in an AMRUT project for newly added SMC areas.",
+    "pinCodes": [
+      "394230"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "amrut_kanakpur",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "umber",
+    "name": "Umber",
+    "aliases": [
+      "Umbher"
+    ],
+    "zoneId": "south-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named with Kanakpur in an AMRUT project for newly added SMC areas.",
+    "pinCodes": [
+      "394230"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "amrut_kanakpur",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "budia",
+    "name": "Budia",
+    "aliases": [
+      "Budiya",
+      "Jiav-Budia"
+    ],
+    "zoneId": "south-b",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Budiya gam appears under South Zone (Udhna-B) in the SMC DMP.",
+    "pinCodes": [
+      "394210"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_dmp",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "unn",
+    "name": "Unn",
+    "aliases": [
+      "Un Gam"
+    ],
+    "zoneId": "south-b",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "394210"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "lajpore",
+    "name": "Lajpore",
+    "aliases": [
+      "Lajpor"
+    ],
+    "zoneId": "south-b",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "394235"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "vesu",
+    "name": "Vesu",
+    "aliases": [
+      "Vesu Gam",
+      "VIP Road",
+      "Vesu-Abhwa",
+      "Vesu Canal Road"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [
+      "395007"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "althan",
+    "name": "Althan",
+    "aliases": [
+      "Althan Gam",
+      "Althan-Bhatar",
+      "Althan Canal Road"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [
+      "395017"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bhatar",
+    "name": "Bhatar",
+    "aliases": [
+      "Bhatar Road"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_swz"
+    ]
+  },
+  {
+    "id": "piplod",
+    "name": "Piplod",
+    "aliases": [
+      "Pipload",
+      "Piplod Road"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [
+      "395007"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bharthana",
+    "name": "Bharthana",
+    "aliases": [
+      "Bharthana-Vesu",
+      "Bharthana Vesu"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [
+      "395007"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bhimrad",
+    "name": "Bhimrad",
+    "aliases": [
+      "Bhimrad Gam"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_swz"
+    ]
+  },
+  {
+    "id": "khajod",
+    "name": "Khajod",
+    "aliases": [
+      "Khajod Gam"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [
+      "395007"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "magdalla",
+    "name": "Magdalla",
+    "aliases": [
+      "Magdala",
+      "Rundh-Magdalla",
+      "Nava Magdalla"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [
+      "395007"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "rundh",
+    "name": "Rundh",
+    "aliases": [
+      "Rundh Gam"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_swz"
+    ]
+  },
+  {
+    "id": "majura-gate",
+    "name": "Majura Gate",
+    "aliases": [
+      "Majura",
+      "Majuragate"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_swz",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "umra",
+    "name": "Umra",
+    "aliases": [
+      "Umra Gam",
+      "Athwa-Umra"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [
+      "394130",
+      "394248",
+      "395007"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "abhva",
+    "name": "Abhva",
+    "aliases": [
+      "Abhwa",
+      "Abhava"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Named on the SMC South West Zone projects page.",
+    "pinCodes": [
+      "395007"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "athwa",
+    "name": "Athwa",
+    "aliases": [
+      "Athwalines",
+      "Athwa Lines",
+      "Athwa Gate",
+      "Chaupati",
+      "Athawa"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "South West Zone was formerly called Athwa Zone; Chaupati civic centre in Athwalines.",
+    "pinCodes": [
+      "395001"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "ghod-dod-road",
+    "name": "Ghod Dod Road",
+    "aliases": [
+      "Ghoddod Road",
+      "Ghod-dod Road",
+      "Ghod Dod"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "South West Zone office is on Ghod Dod Road.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_civic"
+    ]
+  },
+  {
+    "id": "dumas",
+    "name": "Dumas",
+    "aliases": [
+      "Dumas Road",
+      "Dumas Gam"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394550"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "smc_swz",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "bhimpore",
+    "name": "Bhimpore",
+    "aliases": [
+      "Bhimpor"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Appears under South West (Athwa) zone in the SMC DMP.",
+    "pinCodes": [
+      "394550"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_dmp",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "gaviyar",
+    "name": "Gaviyar",
+    "aliases": [
+      "Gavier",
+      "Gaviar"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395007"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "citylight",
+    "name": "City Light",
+    "aliases": [
+      "Citylight",
+      "City Light Road",
+      "Citylight Road"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification. No India Post office of this name; PIN not established.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "parle-point",
+    "name": "Parle Point",
+    "aliases": [
+      "Parle Pt"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "new-citylight",
+    "name": "New Citylight",
+    "aliases": [
+      "New City Light"
+    ],
+    "zoneId": "south-west",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "limbayat",
+    "name": "Limbayat",
+    "aliases": [
+      "Limbayat Gam",
+      "Maruti Nagar"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "South East Zone was formerly called Limbayat Zone.",
+    "pinCodes": [
+      "395012"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "smc_dmp",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "dumbhal",
+    "name": "Dumbhal",
+    "aliases": [
+      "Dumbhal Model Town"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "South East Zone office is at Dumbhal.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_civic",
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "dindoli",
+    "name": "Dindoli",
+    "aliases": [
+      "Navagam-Dindoli",
+      "Dindoli Gam"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394210"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "godadara",
+    "name": "Godadara",
+    "aliases": [
+      "Godadra"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395012"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "devadh",
+    "name": "Devadh",
+    "aliases": [
+      "Devad",
+      "Deladva-Devadh"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "394210"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "kumbharia",
+    "name": "Kumbharia",
+    "aliases": [
+      "Kumbhariya"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Civic centre listed under this zone on the SMC civic-centre page.",
+    "pinCodes": [
+      "395010"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "smc_civic",
+      "indiapost"
+    ]
+  },
+  {
+    "id": "mandarwaja",
+    "name": "Mandarwaja",
+    "aliases": [
+      "Mandarvaja"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "source_indicated",
+    "zoneEvidence": "Appears under South East Zone (Limbayat) in the SMC DMP.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": [
+      "smc_dmp"
+    ]
+  },
+  {
+    "id": "parvat-patiya",
+    "name": "Parvat Patiya",
+    "aliases": [
+      "Parvat Gam",
+      "Parvat"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "395012"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "magob",
+    "name": "Magob",
+    "aliases": [
+      "Magob Gam"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [],
+    "pinConfidence": "unverified",
+    "sourceIds": []
+  },
+  {
+    "id": "saroli",
+    "name": "Saroli",
+    "aliases": [
+      "Saroli Gam"
+    ],
+    "zoneId": "south-east",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification. Note: India Post lists two offices named Saroli (395010 and 394520).",
+    "pinCodes": [
+      "394520",
+      "395010"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  },
+  {
+    "id": "deladva",
+    "name": "Deladva",
+    "aliases": [],
+    "zoneId": "south-east",
+    "zoneConfidence": "inferred",
+    "zoneEvidence": "Commonly associated with this zone; not named on the SMC pages we checked. Needs verification.",
+    "pinCodes": [
+      "394210"
+    ],
+    "pinConfidence": "source_indicated",
+    "sourceIds": [
+      "indiapost"
+    ]
+  }
+]
